@@ -3,9 +3,23 @@
         <title>littlebox-xy</title>
         <link>/</link>
         <description>littlebox-xy</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 25 Jul 2022 11:48:05 &#43;0800</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>比特币标准</title>
+    <link>/the_bitcoin_standard/</link>
+    <pubDate>Mon, 25 Jul 2022 11:48:05 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/the_bitcoin_standard/</guid>
+    <description><![CDATA[The Bitcoin Standard]]></description>
+</item><item>
+    <title>资助非法移民：纽约的中国地下钱庄和人口偷渡</title>
+    <link>/financing_illegal_migration/</link>
+    <pubDate>Thu, 21 Jul 2022 16:23:51 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/financing_illegal_migration/</guid>
+    <description><![CDATA[Financing Illegal Migration: Chinese Underground Bank and Human Smuggling in New York City]]></description>
+</item><item>
     <title>历史的终结和最后的人</title>
     <link>/the_end_of_history_and_the_last_man/</link>
     <pubDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</pubDate>
@@ -67,19 +81,5 @@
     <author>作者</author>
     <guid>/the_housing_boom_and_bust/</guid>
     <description><![CDATA[The Housing Boom and Bust]]></description>
-</item><item>
-    <title>理解媒体</title>
-    <link>/understanding_media/</link>
-    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>/understanding_media/</guid>
-    <description><![CDATA[Understanding Media: The Extension]]></description>
-</item><item>
-    <title>让所学和你相关</title>
-    <link>/make_it_stick/</link>
-    <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>/make_it_stick/</guid>
-    <description><![CDATA[Make it Stick: The Science of Successful Learning]]></description>
 </item></channel>
 </rss>
