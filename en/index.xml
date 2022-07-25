@@ -3,9 +3,23 @@
         <title>littlebox-xy</title>
         <link>/en/</link>
         <description>littlebox-xy</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 Jul 2022 11:58:28 &#43;0800</lastBuildDate>
             <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The Bitcoin Standard</title>
+    <link>/en/the_bitcoin_standard/</link>
+    <pubDate>Mon, 25 Jul 2022 11:58:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/the_bitcoin_standard/</guid>
+    <description><![CDATA[比特币标准]]></description>
+</item><item>
+    <title>Financing Illegal Migration: Chinese Underground Bank and Human Smuggling in New York City</title>
+    <link>/en/financing_illegal_migration/</link>
+    <pubDate>Thu, 21 Jul 2022 16:27:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/financing_illegal_migration/</guid>
+    <description><![CDATA[资助非法移民：纽约的中国地下钱庄和人口偷渡]]></description>
+</item><item>
     <title>The End of History and the Last Man</title>
     <link>/en/the_end_of_history_and_the_last_man/</link>
     <pubDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</pubDate>
@@ -61,19 +75,5 @@
     <author>Author</author>
     <guid>/en/make_it_stick/</guid>
     <description><![CDATA[让所学与你相关：学有所成的科学]]></description>
-</item><item>
-    <title>How to Ask Questions: The Smart Way</title>
-    <link>/en/how_to_ask_questions/</link>
-    <pubDate>Tue, 15 Feb 2022 13:38:16 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/how_to_ask_questions/</guid>
-    <description><![CDATA[提问的智慧]]></description>
-</item><item>
-    <title>Blood in the Streets</title>
-    <link>/en/blood_in_the_streets/</link>
-    <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/blood_in_the_streets/</guid>
-    <description><![CDATA[血流成河：在疯狂的世界中获利]]></description>
 </item></channel>
 </rss>
