@@ -3,9 +3,25 @@
         <title>littlebox-xy</title>
         <link>/en/</link>
         <description>littlebox-xy</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 Jul 2022 11:58:28 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 Sep 2022 22:49:20 &#43;0800</lastBuildDate>
             <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Unfuck_your_brain</title>
+    <link>/en/e13_unfuck_your_brain/</link>
+    <pubDate>Sun, 25 Sep 2022 22:49:20 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/e13_unfuck_your_brain/</guid>
+    <description><![CDATA[Using Science to Get Over Anxiety, Depression, Anger, Freak-outs, and Triggers]]></description>
+</item><item>
+    <title>A Man for All Markets</title>
+    <link>/en/b01_a_man_for_all_markets/</link>
+    <pubDate>Wed, 07 Sep 2022 17:24:59 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/b01_a_man_for_all_markets/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/b01_a_man_for_all_markets/en.png" referrerpolicy="no-referrer">
+            </div>from Las Vegas to Wall Street. How I Beat the Dealer and The Market]]></description>
+</item><item>
     <title>The Bitcoin Standard</title>
     <link>/en/the_bitcoin_standard/</link>
     <pubDate>Mon, 25 Jul 2022 11:58:28 &#43;0800</pubDate>
@@ -61,19 +77,5 @@
     <author>Author</author>
     <guid>/en/the_housing_boom_and_bust/</guid>
     <description><![CDATA[房地产的繁荣与萧条]]></description>
-</item><item>
-    <title>Understanding Media: The Extension</title>
-    <link>/en/understanding_media/</link>
-    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/understanding_media/</guid>
-    <description><![CDATA[《理解媒体》英文原版]]></description>
-</item><item>
-    <title>Make it Stick</title>
-    <link>/en/make_it_stick/</link>
-    <pubDate>Fri, 18 Feb 2022 11:46:29 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/make_it_stick/</guid>
-    <description><![CDATA[让所学与你相关：学有所成的科学]]></description>
 </item></channel>
 </rss>
