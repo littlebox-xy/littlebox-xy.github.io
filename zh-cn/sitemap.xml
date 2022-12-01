@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/categories/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/categories/"
@@ -11,7 +11,25 @@
                     hreflang="zh-cn"
                     href="/categories/"
                     /></url><url>
-            <loc>/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/tags/libmind.com/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/tags/libmind.com/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/tags/libmind.com/"
+                    /></url><url>
+            <loc>/categories/libmind.com/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/categories/libmind.com/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/categories/libmind.com/"
+                    /></url><url>
+            <loc>/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/"
@@ -20,7 +38,7 @@
                     hreflang="zh-cn"
                     href="/"
                     /></url><url>
-            <loc>/posts/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/posts/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/posts/"
@@ -29,7 +47,7 @@
                     hreflang="zh-cn"
                     href="/posts/"
                     /></url><url>
-            <loc>/tags/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/tags/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/tags/"
@@ -38,9 +56,36 @@
                     hreflang="zh-cn"
                     href="/tags/"
                     /></url><url>
-            <loc>/tags/%E5%A4%A7%E8%84%91/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>/categories/%E5%A4%A7%E8%84%91/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>/e13_unfuck_your_brain/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>/j30_dopamine_nation/</loc><lastmod>2022-12-01T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/j30_dopamine_nation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/j30_dopamine_nation/"
+                    /></url><url>
+            <loc>/j45_john_law/</loc><lastmod>2022-11-30T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/j45_john_law/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/j45_john_law/"
+                    /></url><url>
+            <loc>/j41_deep_work/</loc><lastmod>2022-11-15T13:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/j41_deep_work/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/j41_deep_work/"
+                    /></url><url>
+            <loc>/tags/%E5%A4%A7%E8%84%91/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/%E5%A4%A7%E8%84%91/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/e13_unfuck_your_brain/</loc><lastmod>2022-09-25T23:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/e13_unfuck_your_brain/"
@@ -49,9 +94,9 @@
                     hreflang="zh-cn"
                     href="/e13_unfuck_your_brain/"
                     /></url><url>
-            <loc>/tags/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/categories/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>/b01_a_man_for_all_markets/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>/tags/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/%E6%A6%82%E7%8E%87/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/b01_a_man_for_all_markets/</loc><lastmod>2022-09-06T17:04:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/en/b01_a_man_for_all_markets/"

@@ -3,9 +3,36 @@
         <title>littlebox-xy</title>
         <link>/en/</link>
         <description>littlebox-xy</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 Sep 2022 22:49:20 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Dec 2022 14:18:13 &#43;0800</lastBuildDate>
             <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Dopamine Nation</title>
+    <link>/en/j30_dopamine_nation/</link>
+    <pubDate>Thu, 01 Dec 2022 14:18:13 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/j30_dopamine_nation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/j30_dopamine_nation/long/1.png" referrerpolicy="no-referrer">
+            </div>Finding Balance in the Age of Indulgence]]></description>
+</item><item>
+    <title>John Law</title>
+    <link>/en/j45_john_law/</link>
+    <pubDate>Wed, 30 Nov 2022 14:11:45 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/j45_john_law/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/j45_john_law/long/1.png" referrerpolicy="no-referrer">
+            </div>A Scottish Adventurer of the Eighteenth Century]]></description>
+</item><item>
+    <title>Deep Work</title>
+    <link>/en/j41_deep_work/</link>
+    <pubDate>Tue, 15 Nov 2022 13:07:06 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/j41_deep_work/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/j41_deep_work/long/1.png" referrerpolicy="no-referrer">
+            </div>Rules for Focused Success in a Distracted Workd]]></description>
+</item><item>
     <title>Unfuck_your_brain</title>
     <link>/en/e13_unfuck_your_brain/</link>
     <pubDate>Sun, 25 Sep 2022 22:49:20 &#43;0800</pubDate>
@@ -56,26 +83,5 @@
     <author>Author</author>
     <guid>/en/the_discovery_of_society/</guid>
     <description><![CDATA[社会的发现]]></description>
-</item><item>
-    <title>Liquidated: AN ETHNOGRAPHY OF WALL STREET</title>
-    <link>/en/liquidated/</link>
-    <pubDate>Sun, 05 Jun 2022 23:39:08 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/liquidated/</guid>
-    <description><![CDATA[清算：华尔街的民族志]]></description>
-</item><item>
-    <title>Six Translation Examples of E-book</title>
-    <link>/en/six_other_ebook_translation_examples/</link>
-    <pubDate>Sat, 21 May 2022 09:32:00 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/six_other_ebook_translation_examples/</guid>
-    <description><![CDATA[Mass production of translations like mass printing]]></description>
-</item><item>
-    <title>The Housing Boom and Bust</title>
-    <link>/en/the_housing_boom_and_bust/</link>
-    <pubDate>Sun, 06 Mar 2022 13:00:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/the_housing_boom_and_bust/</guid>
-    <description><![CDATA[房地产的繁荣与萧条]]></description>
 </item></channel>
 </rss>

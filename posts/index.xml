@@ -3,7 +3,34 @@
         <title>全部文章 - littlebox-xy</title>
         <link>/posts/</link>
         <description>全部文章 | littlebox-xy</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 25 Sep 2022 23:04:42 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 01 Dec 2022 13:04:20 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>多巴胺王国</title>
+    <link>/j30_dopamine_nation/</link>
+    <pubDate>Thu, 01 Dec 2022 13:04:20 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/j30_dopamine_nation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/j30_dopamine_nation/long/2.png" referrerpolicy="no-referrer">
+            </div>寻找上瘾时代的平衡]]></description>
+</item><item>
+    <title>约翰·劳</title>
+    <link>/j45_john_law/</link>
+    <pubDate>Wed, 30 Nov 2022 13:04:20 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/j45_john_law/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/j45_john_law/long/2.png" referrerpolicy="no-referrer">
+            </div>18世纪苏格兰探险家的传奇]]></description>
+</item><item>
+    <title>深度工作</title>
+    <link>/j41_deep_work/</link>
+    <pubDate>Tue, 15 Nov 2022 13:04:20 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/j41_deep_work/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/https:/libmind.github.io/img/j41_deep_work/long/2.png" referrerpolicy="no-referrer">
+            </div>在一个容易走神的世界里专注成功的规则]]></description>
+</item><item>
     <title>解开你的大脑</title>
     <link>/e13_unfuck_your_brain/</link>
     <pubDate>Sun, 25 Sep 2022 23:04:42 &#43;0800</pubDate>
@@ -54,30 +81,5 @@
     <author>作者</author>
     <guid>/the_discovery_of_society/</guid>
     <description><![CDATA[The Discovery of society]]></description>
-</item><item>
-    <title>清算：华尔街的民族志</title>
-    <link>/liquidated/</link>
-    <pubDate>Sun, 05 Jun 2022 23:40:34 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>/liquidated/</guid>
-    <description><![CDATA[Liquidated: AN ETHNOGRAPHY OF WALL STREET]]></description>
-</item><item>
-    <title>如何接收Pull Request</title>
-    <link>/merge_pull_request/</link>
-    <pubDate>Tue, 15 Mar 2022 13:30:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>/merge_pull_request/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/https:/doraemonj.github.io/pics/guide_003_pull_request.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第2步：注册Github Pages]]></description>
-</item><item>
-    <title>如何注册Github Pages</title>
-    <link>/create_github_pages/</link>
-    <pubDate>Mon, 14 Mar 2022 16:04:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>/create_github_pages/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/https:/doraemonj.github.io/pics/guide_002_create_github_pages.png" referrerpolicy="no-referrer">
-            </div>自建图书馆第2步：注册Github Pages]]></description>
 </item></channel>
 </rss>
